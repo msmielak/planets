@@ -1,2 +1,3 @@
 Test text
 Another line of test text
+Just third line of text
